@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+#decreament, #increament{
+    background-color: yellow;
+    padding: 10px;
+    text-align: center;
+}
+#number{
+    background-color: transparent;
+    border: transparent;
+    color: yellow;
+    text-align: center;
+    font-size: 25px;
+}
+.box{
+    text-align: center;
+}
