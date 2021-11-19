@@ -1,0 +1,30 @@
+body{
+    background-color: blueviolet;
+}
+.form{
+    width: 400px;
+    height: 650px;
+    background-color: white;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+}
+label,input{
+    margin-left: 25px;
+}
+input{
+    width: 330px;
+    padding: 7px;
+    border-radius: 5px;
+}
+label{
+    font-size: 20px;
+}
+form{
+    margin-top: 60px;
+}
+.form{
+    margin-top: 4%;
+    margin-left: 37%;
+}
